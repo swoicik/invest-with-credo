@@ -34,27 +34,27 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Community
+    description                           : # Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    fontawesome_icon_name                 : at
+  
+  - title                                 : Library
+    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    fontawesome_icon_name                 : play-circle
     
-  - title                                 : iPhone Device Preview
+  - title                                 : Mobile Support
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : Complete View
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
+  - title                                 : Coming Soon...
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : star
 
@@ -66,7 +66,7 @@ features                                  :
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
+  - title                                 : Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : info-circle
 
