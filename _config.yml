@@ -35,39 +35,31 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Community
-    description                           : # Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : Invest with a community of friends, follows, are in the public. Learn and grow together.
     fontawesome_icon_name                 : at
   
   - title                                 : Library
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+    description                           : A growing collection of articles, videos, and resources to help educate yourself about investing. 
+    fontawesome_icon_name                 : play-circle 
+  
+  - title                                 : Complete View
+    description                           : View you investments across different accounts and asset classes to have the complete view of your money. 
+    fontawesome_icon_name                 : chart-line
     
   - title                                 : Mobile Support
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : View and manage everything from your browser or smartphone. Always know what's going on with your money.
     fontawesome_icon_name                 : mobile
-
-  - title                                 : Complete View
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : chart-line
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
   
   - title                                 : Coming Soon...
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : More features being added at the request of our beta and first users. Join to help shape the future of CREDO.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
   - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : Share your latest investments and wins across all your social media accounts. 
     fontawesome_icon_name                 : link
 
   - title                                 : Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    description                           : Get support directly from the founders and creators of CREDO. 
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
