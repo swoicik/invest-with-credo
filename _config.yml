@@ -49,10 +49,6 @@ features                                  :
   - title                                 : Mobile Support
     description                           : View and manage everything from your browser or smartphone. Always know what's going on with your money.
     fontawesome_icon_name                 : mobile
-  
-  - title                                 : Coming Soon...
-    description                           : More features being added at the request of our beta and first users. Join to help shape the future of CREDO.
-    fontawesome_icon_name                 : star
 
   - title                                 : Social Links
     description                           : Share your latest investments and wins across all your social media accounts. 
@@ -62,6 +58,10 @@ features                                  :
     description                           : Get support directly from the founders and creators of CREDO. 
     fontawesome_icon_name                 : info-circle
 
+  - title                                 : Coming Soon...
+    description                           : More features being added at the request of our beta and first users. Join to help shape the future of CREDO.
+    fontawesome_icon_name                 : star
+    
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
