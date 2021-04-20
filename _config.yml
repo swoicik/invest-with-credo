@@ -41,13 +41,9 @@ features                                  :
   - title                                 : Library
     description                           : A growing collection of articles, videos, and resources to help educate yourself about investing. 
     fontawesome_icon_name                 : play-circle 
-  
-  - title                                 : Complete View
-    description                           : View you investments across different accounts and asset classes to have the complete view of your money. 
-    fontawesome_icon_name                 : chart-line
     
   - title                                 : Mobile Support
-    description                           : View and manage everything from your browser or smartphone. Always know what's going on with your money.
+    description                           : View and manage everything from your browser or smartphone. Always know what's going on.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Social Links
